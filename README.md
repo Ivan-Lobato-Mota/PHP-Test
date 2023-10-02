@@ -1,6 +1,7 @@
 # PHP-Test
 PHP Language Tests
 Test exercises are separated by Branch.
+The php files for each test are located inside the src folder.
 
 Branches:
 
