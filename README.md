@@ -26,8 +26,6 @@ LS_Even
 #object-oriented-programming-test
 
 OT_Person
-OT_Constructor
-OT_GetAge
 OT_Execute
 
 #SQL-test
