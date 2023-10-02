@@ -33,7 +33,7 @@ if (isset($_POST['year'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Test - Palindrome Word</title>
+    <title>Test - Leap Year</title>
 </head>
 <body>
     <h1>Leap Year Checker</h1>
